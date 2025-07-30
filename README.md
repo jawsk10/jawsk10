@@ -11,15 +11,15 @@ Hello! I'm Jawsk, a developer focused on building efficient, scalable, and secur
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jawsk10)
 
 ## 💻 Tech Stack  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=plastic&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=dotnet&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![.NET](https://img.shields.io/badge/-dotnet-5C2D91?style=flat&logo=dotnet&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-07405e?style=flat&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 
 ## 📊 GitHub Stats  
