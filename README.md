@@ -22,4 +22,4 @@ Hello! I'm Jawsk, a developer focused on building efficient, scalable, and secur
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silvatweaks&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawsk10&show_icons=true&theme=dark)
