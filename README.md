@@ -21,5 +21,6 @@ Hello! I'm Jawsk, a developer focused on building efficient, scalable, and secur
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
+
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawsk10&show_icons=true&theme=dark)
