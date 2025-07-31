@@ -13,7 +13,6 @@ Hello! I'm Jawsk, a developer focused on building efficient, scalable, and secur
 ## 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C# Badge:
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![.NET](https://img.shields.io/badge/-dotnet-5C2D91?style=flat&logo=dotnet&logoColor=white)
