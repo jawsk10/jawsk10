@@ -20,7 +20,7 @@ Hello! I'm **Jawsk**, a developer focused on building efficient, scalable, and s
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-<img src="/mnt/data/d4020a52-504b-4012-865a-4090f8003b9d.png" width="22"/> ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-dotnet-5C2D91?style=flat&logo=dotnet&logoColor=white)
 
 ### 🗄️ Databases  
